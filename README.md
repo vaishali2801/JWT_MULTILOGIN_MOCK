@@ -21,7 +21,17 @@ Admins can register and log in using email and password. After successful authen
 
 Protected Manager APIs require a valid JWT token before they can be accessed.
 
----
+## screenshot
+<img width="1280" height="832" alt="Screenshot 2026-09-26 at 12 51 08 PM" src="https://github.com/user-attachments/assets/5bde64d9-5bd6-4d1d-8520-64c3db9bf9a8" />
+<img width="1280" height="832" alt="Screenshot 2026-09-26 at 12 51 53 PM" src="https://github.com/user-attachments/assets/2d3a5500-38e7-4458-9adb-4ee5e01d0590" />
+<img width="1280" height="832" alt="Screenshot 2026-09-26 at 12 52 46 PM" src="https://github.com/user-attachments/assets/617c51ae-2d2c-4f7d-969c-4b124faac61d" />
+<img width="1280" height="832" alt="Screenshot 2026-09-26 at 12 53 06 PM" src="https://github.com/user-attachments/assets/74466ed7-c6c7-4071-8a7b-314a559a6024" />
+<img width="1280" height="832" alt="Screenshot 2026-09-26 at 12 56 15 PM" src="https://github.com/user-attachments/assets/1933b3b8-3044-4823-864c-1f8ce959d560" />
+<img width="1280" height="832" alt="Screenshot 2026-09-26 at 12 59 02 PM" src="https://github.com/user-attachments/assets/3957781d-ebb0-49a5-a8ce-c250e88f1641" />
+<img width="1280" height="832" alt="Screenshot 2026-09-26 at 1 00 05 PM" src="https://github.com/user-attachments/assets/b29cedca-57c2-49b1-952f-7e85ed14c5c2" />
+<img width="1280" height="832" alt="Screenshot 2026-09-26 at 1 01 30 PM" src="https://github.com/user-attachments/assets/e3a854f5-a3b9-4fed-be74-2c3a62359ccd" />
+<img width="1280" height="832" alt="Screenshot 2026-09-26 at 1 03 10 PM" src="https://github.com/user-attachments/assets/674cf172-32e6-4b7e-87bd-b97b63bd69fc" />
+
 
 ## ✨ Features
 
