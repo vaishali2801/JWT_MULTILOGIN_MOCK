@@ -65,4 +65,5 @@ const logoutAllAdmins = async (req, res,next) => {
         next(new HttpError(error.message, 500))
     }
 };
+
 export default {registerAdmin,loginAdmin,getAdminProfile,logoutAdmin,logoutAllAdmins}
